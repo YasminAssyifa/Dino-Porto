@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@0,400..840;1,400..840&display=swap');
+
+html {
+    background-color: rgb(229, 251, 255);
+    margin: 1rem;
+}
+
+body {
+    font-family: "Andada Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    margin: 0;
+}
+
+.back{
+    text-decoration: none;
+    color: rgb(85,26,139,255);
+    background-color: rgb(248, 249, 255);
+    border-radius: 6rem;
+    padding: 1rem;
+    font-size: 1rem;
+    width: fit-content;
+    border: 1px solid rgb(167, 175, 224);
+}
